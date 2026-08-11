@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-*.pdf
-page-*.jpg
-sample_files/sample_tagged_output.docx
